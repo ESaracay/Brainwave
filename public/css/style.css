@@ -36,7 +36,7 @@ h5 {
   line-height: 20px;
 }
 p {
-  font-size: 15px;
+  font-size: 2rem;
 }
 p.intro {
   margin: 12px 0 0;
@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/brainwave_images/main_page.png) no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -220,19 +220,23 @@ a:focus,
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  color: #000;
   font-size: 82px;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 10px;
+  background-color: #fff;
+  border-radius: 1rem;
 }
 .intro h1 span {
   font-weight: 800;
   color: #5ca9fb;
 }
 .intro p {
-  color: #fff;
+  border-radius: 1rem;
+  background-color: #fff;
+  color: #000;
   font-size: 22px;
   font-weight: 300;
   line-height: 30px;
@@ -292,7 +296,7 @@ header .intro-text {
   content: "\f00c";
   font-family: "FontAwesome";
   color: #5ca9fb;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 300;
   padding-right: 8px;
 }
@@ -439,6 +443,13 @@ header .intro-text {
   font-weight: 600;
   color: #666;
 }
+.Footer {
+  text-align: center;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #1f386e;
+  color: white;
+}
 /* Team Section */
 #team {
   padding: 100px 0;
@@ -447,6 +458,7 @@ header .intro-text {
   margin: 5px 0;
 }
 #team .team-img {
+  border-radius: 50%;
   width: 240px;
 }
 #team .thumbnail {

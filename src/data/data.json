@@ -1,22 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Brainwave",
+    "paragraph": "Taking Meeting notes has never been easier. Power up your productivity by not missing any details from your meetings."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "paragraph": "CS210, also referred to as Software Projects with Corporate Partners, is a senior project course at Stanford University. Our group, consisting of CS majors with diverse skill sets, was assigned to collaborate with BMW. Our objective was to develop an innovative application that would enhance productivity within vehicles. With a strong ambition to create a marketable product, we sought to leverage the most advanced AI models available. After two quarters of dedicated work and an insightful visit to BMW headquarters in Munich, we proudly present our final creation."
   },
   "Gallery": [
     {
@@ -131,24 +119,20 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/brainwave_images/alex.jpg",
+      "name": "Alex Loia"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/brainwave_images/stephan.jpg",
+      "name": "Stephan Sharkov"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/brainwave_images/evan.jpg",
+      "name": "Evan Saracay"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/brainwave_images/vy.jpg",
+      "name": "Vy Thai"
     }
   ],
   "Contact": {
