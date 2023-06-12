@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/brainwave/static/css/main.ae42ac5f.css",
+    "main.js": "/brainwave/static/js/main.e5ea0baf.js",
+    "index.html": "/brainwave/index.html",
+    "main.ae42ac5f.css.map": "/brainwave/static/css/main.ae42ac5f.css.map",
+    "main.e5ea0baf.js.map": "/brainwave/static/js/main.e5ea0baf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.e5ea0baf.js"
+  ]
+}
