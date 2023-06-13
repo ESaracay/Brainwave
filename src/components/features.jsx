@@ -12,9 +12,13 @@ export const Features = (props) => {
             ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className="row-xs-6 row-md-3">
                   {" "}
-                  <i className={d.icon}></i>
-                  <h3>{d.title}</h3>
-                  <p>{d.text}</p>
+                  <div className="row-xs-12 row-md-6">
+                    <i className={d.icon}></i>
+                  </div>
+                  <div className="row-xs-12 row-md-6">
+                    <h3>{d.title}</h3>
+                    <p>{d.text}</p>
+                  </div>
                 </div>
               ))
             : "Loading..."}
