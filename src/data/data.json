@@ -145,24 +145,35 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "image": "img/brainwave_images/meetings.png",
+      "title": "Instantly View Past/Present Meetings",
+      "text": "Quickly view your past and current meetings. Meetings are sorted by relevance and live meetings will appear instantly."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "image": "img/brainwave_images/main_page.png",
+      "title": "Live Transcription & Dirization",
+      "text": "Meetings are transcribed in real time with a latency of ~15 seconds. Live Transcription also includes audio dirization (labeling of different voices)"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "image": "img/brainwave_images/todo.png",
+      "title": "Summary & TODO's",
+      "text": "Both a summary and a list of TODO items are generated once the meeting has ended"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "image": "img/brainwave_images/entity_rec.png",
+      "title": "Live Entity Recognition",
+      "text": "As your meeting notes are being transcribed in real time certain entities will be highlighted blue. When you click on these words a quick summarization provided by chat-GPT is produced."
+    },
+    {
+      "image": "img/brainwave_images/ask_q.png",
+      "title": "Followup Questions",
+      "text": "You can quickly ask chat-GPT any questions you have about your meeting."
+    },
+    {
+      "image": "img/brainwave_images/calendar.png",
+      "title": "Automatic Meeting Suggestions",
+      "text": "At the end of your meeting we automatically suggest any followup events that you should add on your calendar. Any fututre meeting details discussed in your meeting transcript will appear here."
     }
+
   ]
 }
