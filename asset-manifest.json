@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/brainwave/static/css/main.ae42ac5f.css",
-    "main.js": "/brainwave/static/js/main.153128a8.js",
+    "main.js": "/brainwave/static/js/main.84fe17df.js",
     "index.html": "/brainwave/index.html",
     "main.ae42ac5f.css.map": "/brainwave/static/css/main.ae42ac5f.css.map",
-    "main.153128a8.js.map": "/brainwave/static/js/main.153128a8.js.map"
+    "main.84fe17df.js.map": "/brainwave/static/js/main.84fe17df.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.153128a8.js"
+    "static/js/main.84fe17df.js"
   ]
 }
